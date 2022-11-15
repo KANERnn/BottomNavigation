@@ -29,6 +29,7 @@
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/taskFragment"
-        android:name="com.example.bottomnavigation.ui.TaskFragment"
+        android:name="com.dacha.taskmanager1.ui.task.TaskFragment"
         android:label="TaskFragment" />
+
 </navigation>
